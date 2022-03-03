@@ -1,0 +1,38 @@
+.container{
+   max-width: 1000px;
+  margin: 0 auto;
+  padding: 15px 15px;
+  background-color: rgb(20, 47, 73);
+  border-radius: 15px;
+
+}
+.Btn{
+    padding: 10px 18px;
+    border: 2px solid aqua;
+    border-radius: 8px;
+    background-color: aqua;
+    color: white;
+    width: 50%;
+    font-size: 28px;
+}
+.Btn:hover{
+    opacity: 0.7;
+    background: transparent;
+   
+}
+.text2{
+    display: none;
+   
+
+}
+.text2__open{
+    display: block;
+    
+    
+}
+.text{
+    padding: 38px 15px;
+    color: white;
+    font-size: 34px;
+
+}
